@@ -1,1 +1,1 @@
-# Humber-github
+# Humber-Bootstrap-Git
